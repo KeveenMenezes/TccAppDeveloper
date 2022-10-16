@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <Header />
       <div className="Hero">
-        <VerNav/>
-        <Cards/>
+        <VerNav />
+        <Cards />
       </div>
     </div>
   );
